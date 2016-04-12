@@ -24,7 +24,7 @@ def doFunc(logfile):
         content=('%s<p>电影天堂电影更新：</p>%s<p>&nbsp;</p>' %(content,dy2018))
 
     if ismessage:
-        content=('%s<p><a href="mailto:747883006@qq.com">如需取消，请点这里</a></p>'%content)
+        content=('%s<p><a href="mailto:*******@qq.com">如需取消，请点这里</a></p>'%content)
         content=('%s<p>***********</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By wxj</p>'%content)
         
         #print(content)
